@@ -1,1 +1,5 @@
+# Default to requiring people mindful of Infrastructure changes to approve
 * @tailsnscales/infra-owners
+
+# Require changes to DO resources be approved by people financially backing it
+/digitalocean @tailsnscales/sponsors 

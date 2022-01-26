@@ -11,6 +11,10 @@ how many servers/etc and what kinds are described (or "declared"), and then that
 used to make changes to the actual servers/etc. If you remove a server's configuration from here,
 it will be deleted.
 
-## How to use? TODO
+## How to use?
 
-## Implementation details TODO
+1. Make a branch, and add your changes to the Terraform code
+2. Push and open a PR. The PR will validate your code and tag reviewers
+3. After reviewed, merge.
+
+Some changes will have extra steps, like reviewing for financial changes.
